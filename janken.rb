@@ -9,7 +9,7 @@ def janken
   when 2
     puts "チョキ"
   when 3
-    puts ""
+    puts "グー"
   end
   
 end
