@@ -12,7 +12,7 @@ def calc(x, y, operator)
 
   #掛け算
   elsif operator == "*"
-    #コンフリクト修正済み
+    #コンフリクト修正済み2
     puts x * y
 
   #割り算
