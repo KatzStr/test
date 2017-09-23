@@ -12,8 +12,9 @@ def calc(x, y, operator)
 
   #掛け算
   elsif operator == "*"
+    #コンフリクト修正済み
     puts x * y
-    
+
   #割り算
   elsif operator == "/"
     if y == 0
